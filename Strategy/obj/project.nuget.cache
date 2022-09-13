@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvmnDkXKI9EYZ2oLMyRhT7ki0BLhMFAWvYi6KTcqao9D+VEkz1GaZ4c+l2wo7oBwvMAQLdptOY40XM9P4rJMDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Strategy\\Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HhoU38Akv2Pf6++LP+BS9C4+5zNUELeKq+Vd6cITa9w8KZpuhLJsYy/en2RfWSxDDx7ioNimbrSxi4yq0XM7JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\VideoGalleryPresentation\\VideoGalleryPresentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

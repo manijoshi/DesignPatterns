@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTT/6Obyz5Uv/3cZxerawbEJpRprh/6SNHL+VOGqe2zl5w+dcJHwfUDhNtHb+I0pC34KRmMuCLlIr9fFCnB0ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

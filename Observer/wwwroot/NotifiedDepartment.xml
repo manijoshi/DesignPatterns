@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Department>
+  <IT>
+    <EmployeeId>1</EmployeeId>
+    <EmployeeId>2</EmployeeId>
+  </IT>
+  <Finance>
+    <EmployeeId>1</EmployeeId>
+    <EmployeeId>2</EmployeeId>
+  </Finance>
+  <Library>
+    <EmployeeId>1</EmployeeId>
+    <EmployeeId>2</EmployeeId>
+  </Library>
+</Department>

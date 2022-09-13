@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApplicationFacade/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AuthenticationComponent": "1.0.0",
+          "AuthorizationComponent": "1.0.0",
+          "Contracts": "1.0.0",
+          "ValidationComponent": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ApplicationFacade.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApplicationFacade.dll": {}
+        }
+      },
+      "AuthenticationComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AuthenticationComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthenticationComponent.dll": {}
+        }
+      },
+      "AuthorizationComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AuthorizationComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthorizationComponent.dll": {}
+        }
+      },
+      "Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contracts.dll": {}
+        }
+      },
+      "ValidationComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ValidationComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValidationComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplicationFacade/1.0.0": {
+      "type": "project",
+      "path": "../ApplicationFacade/ApplicationFacade.csproj",
+      "msbuildProject": "../ApplicationFacade/ApplicationFacade.csproj"
+    },
+    "AuthenticationComponent/1.0.0": {
+      "type": "project",
+      "path": "../AuthenticationComponent/AuthenticationComponent.csproj",
+      "msbuildProject": "../AuthenticationComponent/AuthenticationComponent.csproj"
+    },
+    "AuthorizationComponent/1.0.0": {
+      "type": "project",
+      "path": "../AuthorizationComponent/AuthorizationComponent.csproj",
+      "msbuildProject": "../AuthorizationComponent/AuthorizationComponent.csproj"
+    },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Contracts/Contracts.csproj",
+      "msbuildProject": "../Contracts/Contracts.csproj"
+    },
+    "ValidationComponent/1.0.0": {
+      "type": "project",
+      "path": "../ValidationComponent/ValidationComponent.csproj",
+      "msbuildProject": "../ValidationComponent/ValidationComponent.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ApplicationFacade >= 1.0.0",
+      "AuthenticationComponent >= 1.0.0",
+      "AuthorizationComponent >= 1.0.0",
+      "Contracts >= 1.0.0",
+      "ValidationComponent >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\LoginModule.csproj",
+      "projectName": "LoginModule",
+      "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\LoginModule.csproj",
+      "packagesPath": "C:\\Users\\manishajoshi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\manishajoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\ApplicationFacade.csproj": {
+              "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\ApplicationFacade.csproj"
+            },
+            "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj": {
+              "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj"
+            },
+            "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj": {
+              "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj"
+            },
+            "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj"
+            },
+            "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj": {
+              "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

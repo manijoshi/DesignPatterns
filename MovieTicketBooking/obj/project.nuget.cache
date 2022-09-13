@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oci5jyMjA765JB3s23auon9XKth8wxdliKPYg5DooZyWEnseMGXDfXnJ79e1nSJm/mhxoG1GbyvFcK0Dx/NjGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\MovieTicketBooking\\MovieTicketBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

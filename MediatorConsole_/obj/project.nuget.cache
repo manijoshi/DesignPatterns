@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyYLijH+C0UNFm8W0nMHrk9FJE/of0atB0q3364hvckOPw0B9e23QqWbktP46LLxP4AAf1+8SQiojA3LoB3e3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\MediatorConsole_\\MediatorConsole_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

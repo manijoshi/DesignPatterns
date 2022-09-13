@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.pdb

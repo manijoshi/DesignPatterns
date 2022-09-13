@@ -1,0 +1,17 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\SchoolManagementSystem.exe
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\SchoolManagementSystem.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\SchoolManagementSystem.runtimeconfig.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\SchoolManagementSystem.runtimeconfig.dev.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\SchoolManagementSystem.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\SchoolManagementSystem.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\ReportPrinter.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\bin\Debug\netcoreapp3.1\ReportPrinter.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.csproj.CopyComplete
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.genruntimeconfig.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SchoolManagementSystem\obj\Debug\netcoreapp3.1\SchoolManagementSystem.csproj.AssemblyReference.cache

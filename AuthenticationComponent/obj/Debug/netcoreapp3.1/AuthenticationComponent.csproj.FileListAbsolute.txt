@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\bin\Debug\netcoreapp3.1\AuthenticationComponent.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\bin\Debug\netcoreapp3.1\AuthenticationComponent.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\bin\Debug\netcoreapp3.1\AuthenticationComponent.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\obj\Debug\netcoreapp3.1\AuthenticationComponent.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\obj\Debug\netcoreapp3.1\AuthenticationComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\obj\Debug\netcoreapp3.1\AuthenticationComponent.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\obj\Debug\netcoreapp3.1\AuthenticationComponent.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\obj\Debug\netcoreapp3.1\AuthenticationComponent.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\obj\Debug\netcoreapp3.1\AuthenticationComponent.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\AuthenticationComponent\obj\Debug\netcoreapp3.1\AuthenticationComponent.pdb

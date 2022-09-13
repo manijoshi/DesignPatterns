@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zngk9Op3syqWc7fOuxCZTY9auo5hHlXLCylxGPkuVVh486gvbJxdo0Xy526c1zSTW4j/8VxdxyaoigXjSxorBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\SalesApplication\\SalesApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512",
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

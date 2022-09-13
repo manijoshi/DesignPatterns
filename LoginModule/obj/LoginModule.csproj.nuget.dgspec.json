@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\LoginModule.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\ApplicationFacade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\ApplicationFacade.csproj",
+        "projectName": "ApplicationFacade",
+        "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\ApplicationFacade.csproj",
+        "packagesPath": "C:\\Users\\manishajoshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manishajoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj"
+              },
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj"
+              },
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj",
+        "projectName": "AuthenticationComponent",
+        "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj",
+        "packagesPath": "C:\\Users\\manishajoshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manishajoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj",
+        "projectName": "AuthorizationComponent",
+        "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj",
+        "packagesPath": "C:\\Users\\manishajoshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manishajoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\manishajoshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manishajoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\LoginModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\LoginModule.csproj",
+        "projectName": "LoginModule",
+        "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\LoginModule.csproj",
+        "packagesPath": "C:\\Users\\manishajoshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\LoginModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manishajoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\ApplicationFacade.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ApplicationFacade\\ApplicationFacade.csproj"
+              },
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthenticationComponent\\AuthenticationComponent.csproj"
+              },
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\AuthorizationComponent\\AuthorizationComponent.csproj"
+              },
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj": {
+                "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj",
+        "projectName": "ValidationComponent",
+        "projectPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\ValidationComponent.csproj",
+        "packagesPath": "C:\\Users\\manishajoshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\ValidationComponent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manishajoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9urE7hX3BSTlQCYfl1ioSA50VC58iKwisxeSRH1cUSA+kUcRV0lwbSse7g1ko3TNqBAFucluUljJNTsEW5zv+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\CreationalDesignPattern\\CreationalDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\commonservicelocator.netcore\\1.3.1\\commonservicelocator.netcore.1.3.1.nupkg.sha512",
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\unity.netcore\\4.0.3\\unity.netcore.4.0.3.nupkg.sha512",
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

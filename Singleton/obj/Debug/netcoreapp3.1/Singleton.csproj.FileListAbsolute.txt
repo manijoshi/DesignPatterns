@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb

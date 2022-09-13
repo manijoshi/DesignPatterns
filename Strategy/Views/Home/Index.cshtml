@@ -1,0 +1,47 @@
+﻿<html>
+<head>
+    <style>
+        .card{
+            box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+            max-width:360px;
+            margin:auto;
+            text-align:center;
+            font-family:Arial;
+        }
+        .price{
+            color:grey;
+            font-size:22px;
+        }
+        .button{
+            border:none;
+            outline:0;
+            padding:12px;
+            color:white;
+            background-color:#000;
+            text-align:center;
+            cursor:pointer;
+            width:100%;
+            font-size:18px;
+        }
+        .card button:hover{
+            opacity:0.7;
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm(null, null, FormMethod.Post)) 
+    {
+        <h2 style="text-align:center;">Product On Sale</h2>
+        <div class="card">
+            <img src="~/Images/jeans3.jpg" alt="Denim Jeans" style="width:100%" />
+            <h1>Slim Fit Jeans</h1>
+            <p class="price">$23.99</p>
+            <p>Womens casual jeans featuring a buttoned waist, basic pockets and skinny fit. It is crafted from fine fabric.</p>
+            <p style="text-align:left;margin-left:10px;font-weight:600;">Credit Card &nbsp;&nbsp; @Html.RadioButton("PaymentMode", "CreditCard")</p>
+            <p style="text-align:left;margin-left:10px;font-weight:600;">Debit Card &nbsp;&nbsp;&nbsp; @Html.RadioButton("PaymentMode", "CreditCard")</p>
+            <input type="submit" class="button" value="Process Payment" />
+        </div>
+    }
+    @*<p><input type="submit" class="button" value="Process" /></p>*@
+</body>
+</html>

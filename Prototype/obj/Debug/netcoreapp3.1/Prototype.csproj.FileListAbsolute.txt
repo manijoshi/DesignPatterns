@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb

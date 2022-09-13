@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\bin\Debug\netcoreapp3.1\GraphReport.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\bin\Debug\netcoreapp3.1\GraphReport.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\bin\Debug\netcoreapp3.1\GraphReport.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\obj\Debug\netcoreapp3.1\GraphReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\obj\Debug\netcoreapp3.1\GraphReport.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\obj\Debug\netcoreapp3.1\GraphReport.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\obj\Debug\netcoreapp3.1\GraphReport.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\obj\Debug\netcoreapp3.1\GraphReport.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\obj\Debug\netcoreapp3.1\GraphReport.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\GraphReport\obj\Debug\netcoreapp3.1\GraphReport.csproj.AssemblyReference.cache

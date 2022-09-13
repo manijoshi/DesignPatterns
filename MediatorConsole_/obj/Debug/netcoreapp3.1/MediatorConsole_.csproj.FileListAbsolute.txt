@@ -1,0 +1,13 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\bin\Debug\netcoreapp3.1\MediatorConsole_.exe
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\bin\Debug\netcoreapp3.1\MediatorConsole_.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\bin\Debug\netcoreapp3.1\MediatorConsole_.runtimeconfig.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\bin\Debug\netcoreapp3.1\MediatorConsole_.runtimeconfig.dev.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\bin\Debug\netcoreapp3.1\MediatorConsole_.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\bin\Debug\netcoreapp3.1\MediatorConsole_.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\obj\Debug\netcoreapp3.1\MediatorConsole_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\obj\Debug\netcoreapp3.1\MediatorConsole_.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\obj\Debug\netcoreapp3.1\MediatorConsole_.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\obj\Debug\netcoreapp3.1\MediatorConsole_.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\obj\Debug\netcoreapp3.1\MediatorConsole_.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\obj\Debug\netcoreapp3.1\MediatorConsole_.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MediatorConsole_\obj\Debug\netcoreapp3.1\MediatorConsole_.genruntimeconfig.cache

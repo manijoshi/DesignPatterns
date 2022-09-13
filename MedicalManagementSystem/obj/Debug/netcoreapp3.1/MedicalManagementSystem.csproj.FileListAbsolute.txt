@@ -1,0 +1,17 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\MedicalManagementSystem.exe
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\MedicalManagementSystem.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\MedicalManagementSystem.runtimeconfig.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\MedicalManagementSystem.runtimeconfig.dev.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\MedicalManagementSystem.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\MedicalManagementSystem.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\ReportPrinter.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\bin\Debug\netcoreapp3.1\ReportPrinter.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.csproj.CopyComplete
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\MedicalManagementSystem\obj\Debug\netcoreapp3.1\MedicalManagementSystem.genruntimeconfig.cache

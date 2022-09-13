@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\bin\Debug\netcoreapp3.1\ReportPrinter.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\bin\Debug\netcoreapp3.1\ReportPrinter.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\bin\Debug\netcoreapp3.1\ReportPrinter.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\obj\Debug\netcoreapp3.1\ReportPrinter.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\obj\Debug\netcoreapp3.1\ReportPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\obj\Debug\netcoreapp3.1\ReportPrinter.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\obj\Debug\netcoreapp3.1\ReportPrinter.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\obj\Debug\netcoreapp3.1\ReportPrinter.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\obj\Debug\netcoreapp3.1\ReportPrinter.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\ReportPrinter\obj\Debug\netcoreapp3.1\ReportPrinter.pdb

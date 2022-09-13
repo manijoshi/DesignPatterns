@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb

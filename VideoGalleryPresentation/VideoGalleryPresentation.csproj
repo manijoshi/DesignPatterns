@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Videos\Bahara.mp4" />
+    <Content Remove="wwwroot\Videos\BedardiRaja.mp4" />
+    <Content Remove="wwwroot\Videos\Bekhauff.mp4" />
+    <Content Remove="wwwroot\Videos\Naina.mp4" />
+    <Content Remove="wwwroot\Videos\PiyaSeNaina.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Videos\Bahara.mp4" />
+    <None Include="wwwroot\Videos\BedardiRaja.mp4" />
+    <None Include="wwwroot\Videos\Bekhauff.mp4" />
+    <None Include="wwwroot\Videos\HD\Bahara.mp4" />
+    <None Include="wwwroot\Videos\HD\BedardiRaja.mp4" />
+    <None Include="wwwroot\Videos\HD\Bekhauff.mp4" />
+    <None Include="wwwroot\Videos\HD\Naina.mp4" />
+    <None Include="wwwroot\Videos\HD\PiyaSeNaina.mp4" />
+    <None Include="wwwroot\Videos\Naina.mp4" />
+    <None Include="wwwroot\Videos\PiyaSeNaina.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VideoLibrary\VideoLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

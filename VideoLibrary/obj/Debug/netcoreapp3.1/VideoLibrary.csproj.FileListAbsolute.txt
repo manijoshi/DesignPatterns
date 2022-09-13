@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\bin\Debug\netcoreapp3.1\VideoLibrary.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\bin\Debug\netcoreapp3.1\VideoLibrary.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\bin\Debug\netcoreapp3.1\VideoLibrary.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.csproj.AssemblyReference.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.pdb

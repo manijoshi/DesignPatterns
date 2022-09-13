@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xvg3iIDXcAUKxluhMI2cM+dhkx2jkx5+aLUmKqcQFoDdsMpWNNA1xH2lGDDuUoJe5zC09mnkt9R5IpcKD7wYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manishajoshi\\source\\repos\\CreationalDesignPattern\\MedicalManagementSystem\\MedicalManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manishajoshi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

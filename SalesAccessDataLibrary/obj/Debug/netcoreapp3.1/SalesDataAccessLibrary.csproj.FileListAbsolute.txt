@@ -1,0 +1,10 @@
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\bin\Debug\netcoreapp3.1\SalesDataAccessLibrary.deps.json
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\bin\Debug\netcoreapp3.1\SalesDataAccessLibrary.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\bin\Debug\netcoreapp3.1\SalesDataAccessLibrary.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\obj\Debug\netcoreapp3.1\SalesDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\obj\Debug\netcoreapp3.1\SalesDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\obj\Debug\netcoreapp3.1\SalesDataAccessLibrary.AssemblyInfo.cs
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\obj\Debug\netcoreapp3.1\SalesDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\obj\Debug\netcoreapp3.1\SalesDataAccessLibrary.dll
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\obj\Debug\netcoreapp3.1\SalesDataAccessLibrary.pdb
+C:\Users\manishajoshi\source\repos\CreationalDesignPattern\SalesAccessDataLibrary\obj\Debug\netcoreapp3.1\SalesDataAccessLibrary.csproj.AssemblyReference.cache

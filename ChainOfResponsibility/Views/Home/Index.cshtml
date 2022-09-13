@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            max-width: 360px;
+            margin: auto;
+            text-align: center;
+            font-family: arial;
+        }
+
+        .price {
+            color: grey;
+            font-size: 22px;
+        }
+
+        .button {
+            border: none;
+            outline: 0;
+            padding: 12px;
+            color: white;
+            background-color: #000;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+            font-size: 18px;
+        }
+
+        .card button:hover {
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align:center">Product On Sale</h2>
+    @using (Html.BeginForm("ProcessPayment", "Home"))
+    {
+        <div class="row">
+            <div class="col-4">
+                <div class="card">
+                    <img src="~/Images/camera.jpg" alt="Denim Jeans" style="width:100%; height:450px">
+                    <h1>SLR Camera</h1>
+                    <p class="price">INR 55000</p>
+                    <input type="hidden" value="55000" name="CameraPrice" />
+                    <p>Image Processor: DIGIC 4+ with 9 autofocus points (important for speed and accuracy of autofocus and burst photography</p>
+                    <input type="submit" name="Camera" class="button" value="Process Payment" />
+                </div>
+
+            </div>
+            <div class="col-4">
+
+                <div class="card">
+                    <img src="~/Images/iphone.jpg" alt="IPhone" style="width:100%; height:450px">
+                    <h1>IPhone XR</h1>
+                    <p class="price">INR 20000</p>
+                    <input type="hidden" value="20000" name="IPhonePrice" />
+                    <p>The new lower-priced iPhone XR is a good buy, as long as you don’t mind making a few compromises.</p>
+                    <input type="submit" name="IPhone" class="button" value="Process Payment" />
+                </div>
+
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="~/Images/watch.jpeg" alt="Watch" style="width:100%; height:450px">
+                    <h1>Apple Watch</h1>
+                    <p class="price">2000</p>
+                    <input type="hidden" value="2000" name="WatchPrice" />
+                    <p>The 10-point Apple Watch Series: Finally a worthwhile upgrade. Buy now and get exciting discounts.</p>
+                    <input type="submit" name="Watch" class="button" value="Process Payment" />
+                </div>
+
+            </div>
+        </div>
+        <br />
+        <h1 style="text-align:center">@ViewBag.HandledBy</h1>
+    }
+</body>
+</html>
